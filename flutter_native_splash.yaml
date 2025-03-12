@@ -1,0 +1,45 @@
+flutter_native_splash:
+  background_image: assets/images/splash_background_light_theme.png
+  background_image_dark: assets/images/splash_background_dark_theme.png
+
+
+  android_12:
+    background_image: assets/images/splash_background_light_theme.png
+    background_image_dark: assets/images/splash_background_dark_theme.png
+
+
+  web: true
+
+
+
+
+
+
+
+
+
+
+
+#flutter_native_splash:
+# color: "#F1EFE7"
+# image: assets/images/splash_logo_light_theme.png
+# branding: assets/images/splash_branding_light_theme_1x.png
+# color_dark: "#0F1629"
+# image_dark: assets/images/splash_logo_dark_theme.png
+# branding_dark: assets/images/splash_branding_dark_theme_1x.png
+#
+#
+# android_12:
+#   color: "#F1EFE7"
+#   image: assets/images/splash_logo_light_theme.png
+#   branding: assets/images/splash_branding_light_theme_1x.png
+#   #icon_background_color: "#ffffff"
+#   color_dark: "#0F1629"
+#   image_dark: assets/images/splash_logo_dark_theme.png
+#   #icon_background_color_dark: "#121212"
+#   branding_dark: assets/images/splash_branding_dark_theme_1x.png
+#
+#
+#
+#
+# web: false
